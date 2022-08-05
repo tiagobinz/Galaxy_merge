@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbcedd8e8870703428c615e79047927b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Explosion_VFX: {instanceID: 0}
+  - Damage_SFX: {instanceID: 0}
+  - damageMaterial: {fileID: 2100000, guid: 0e4ce76158b09e64ebdc98fe3ae4de6a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

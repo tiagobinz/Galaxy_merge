@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62ebfaa1987876e4084dc22415ec1682, type: 3}
+  m_Name: TwoBrawlers
+  m_EditorClassIdentifier: 
+  objectsToSpawn:
+  - gameObject: {fileID: 7564997369972430722, guid: 54cc6cc2110106c42af86cf423bb64fe,
+      type: 3}
+    xCoordinate: -5
+    zCoordinate: 20
+    rotation: 180
+  - gameObject: {fileID: 7564997369972430722, guid: 54cc6cc2110106c42af86cf423bb64fe,
+      type: 3}
+    xCoordinate: 5
+    zCoordinate: 20
+    rotation: 180
+  endCondition: 1
+  waitTime: 0

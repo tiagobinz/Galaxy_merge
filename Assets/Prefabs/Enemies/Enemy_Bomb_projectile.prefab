@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6714772008451332855
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7699762822186110165, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy_Bomb_projectile
+      objectReference: {fileID: 0}
+    - target: {fileID: 6788336465334279328, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: autoExplodeAfterTime
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5784778902636069960, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: amount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7699762822186110167, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: speed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.4828453
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6379175
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.83043313
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359503780239112969, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543062147036492183, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f,
+        type: 3}
+      propertyPath: maxHealth
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5784778902636069960, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 9e7e8c4bfad5b764cad8cf6d13ffae5f, type: 3}
